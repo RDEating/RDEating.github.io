@@ -3,7 +3,9 @@ layout: post
 title: Seafood Paella
 date: 2014-08-06 21:12:03.000000000 -04:00
 categories: []
-tags: []
+tags:
+  - dinner
+  - recipies
 status: publish
 type: post
 published: true
@@ -18,14 +20,15 @@ author:
   display_name: Meagan DiVito
   first_name: Meagan
   last_name: DiVito
+image: /images/seafood_paella/seafood_paella_1.jpg
 ---
-<p style="text-align: center;"><a href="http://www.forthecloveofgarlic.com/wp-content/uploads/2014/08/P8026074.jpg"><img class="size-large wp-image-432 aligncenter" alt="Seafood Paella" src="assets/P8026074-1024x768.jpg" width="720" height="540" /></a></p>
-<p>Seafood paella is one of the recipes I always make when friends/family come to visit, or for special occasions, or just for a special date night... any excuse we can find, we make it. Right now, it is probably my favorite recipe, even trumping my dad's chicken parm, which is <em>really</em> saying something.</p>
+Seafood paella is one of the recipes I always make when friends/family come to visit, or for special occasions, or just for a special date night... any excuse we can find, we make it. Right now, it is probably my favorite recipe, even trumping my dad's chicken parm, which is <em>really</em> saying something.
+
 <p style="text-align: center; margin-left: auto; margin-right: auto;"><a href="http://www.forthecloveofgarlic.com/wp-content/uploads/2014/08/P8026070.jpg"><img class="size-medium wp-image-431 alignnone" alt="Seafood Paella" src="assets/P8026070-300x225.jpg" width="300" height="225" /></a> <a href="http://www.forthecloveofgarlic.com/wp-content/uploads/2014/08/P8025945.jpg"><img class="size-medium wp-image-421 alignnone" alt="Seafood Paella" src="assets/P8025945-300x225.jpg" width="300" height="225" /></a></p>
-<p>Paella is a traditional Spanish dish of short-grain rice, saffron and good quality olive oil. The 3 most popular versions are seafood, vegetarian, or mixed meat and seafood. I love the seafood and mixed meat/seafood. I am posting the mixed because I find the seafood balances the spice of the chorizo and gives it a subtle rich flavor. If you aren't a sausage or spice fan, just omit it.</p>
+Paella is a traditional Spanish dish of short-grain rice, saffron and good quality olive oil. The 3 most popular versions are seafood, vegetarian, or mixed meat and seafood. I love the seafood and mixed meat/seafood. I am posting the mixed because I find the seafood balances the spice of the chorizo and gives it a subtle rich flavor. If you aren't a sausage or spice fan, just omit it.
 <p style="text-align: center; margin-left: auto; margin-right: auto;"><a href="http://www.forthecloveofgarlic.com/wp-content/uploads/2014/08/P8025943.jpg"><img class="alignnone size-medium wp-image-420" alt="Seafood Paella" src="assets/P8025943-300x225.jpg" width="300" height="225" /></a> <a href="http://www.forthecloveofgarlic.com/wp-content/uploads/2014/08/P8025972.jpg"><img class="alignnone size-medium wp-image-423" alt="Seafood Paella" src="assets/P8025972-300x225.jpg" width="300" height="225" /></a></p>
-<p>Note: You do not need to have a paella pan to make this recipe- for over a year I used a large, 2 inch deep skillet, and it turned out great each time. The paella pan just allows the bottom to crisp more evenly- and Dan loves the charred bottom.</p>
-<p><span style="text-decoration: underline;"><strong>Fun facts about paella:</strong></span></p>
+Note: You do not need to have a paella pan to make this recipe- for over a year I used a large, 2 inch deep skillet, and it turned out great each time. The paella pan just allows the bottom to crisp more evenly- and Dan loves the charred bottom.
+<span style="text-decoration: underline;"><strong>Fun facts about paella:</strong></span>
 <ul>
 <li>The beginning mix of onion, garlic, parsley, and olive oil is called a soffritto. It smells like heaven.</li>
 <li>Chorizo is a spanish sausage and can be found near the Italian sausage. If your grocery store doesn't have it, you can use hot Italian sausage as a substitute (though it is a bit spicier the Chorizo)</li>
@@ -39,8 +42,8 @@ author:
 <p style="text-align: center; margin-left: auto; margin-right: auto;"><a href="http://www.forthecloveofgarlic.com/wp-content/uploads/2014/08/P8026006.jpg"><img class="size-medium wp-image-426  alignnone" alt="Seafood Paella" src="assets/P8026006-300x225.jpg" width="300" height="225" /></a> <a href="http://www.forthecloveofgarlic.com/wp-content/uploads/2014/08/P8026021.jpg"><img class="size-medium wp-image-427  alignnone" alt="Seafood Paella" src="assets/P8026021-300x225.jpg" width="300" height="225" /></a> <a href="http://www.forthecloveofgarlic.com/wp-content/uploads/2014/08/P8026023.jpg"><img class="size-medium wp-image-440  alignnone" alt="Seafood Paella" src="assets/P8026023-300x225.jpg" width="300" height="225" /></a></p>
 <p style="text-align: center;"> Finally, the finished product:</p>
 <p style="text-align: center; margin-left: auto; margin-right: auto;"><a style="text-align: center;" href="http://www.forthecloveofgarlic.com/wp-content/uploads/2014/08/P8026040.jpg"><img class="alignnone size-medium wp-image-429" alt="Seafood Paella" src="assets/P8026040-225x300.jpg" width="225" height="300" /></a><span style="text-align: center;"> </span><a style="text-align: center;" href="http://www.forthecloveofgarlic.com/wp-content/uploads/2014/08/P8026077.jpg"><img class="alignnone size-medium wp-image-433" alt="Seafood Paella" src="assets/P8026077-225x300.jpg" width="225" height="300" /></a></p>
-<p>Because I made this for a special date night, I looked up what wines go well with seafood paella. We ended up with a Rueda and it paired amazingly. I'm generally not a fan of dry wines, but there was a slight saltiness to it that, when eaten with some of the seafood, made it seem like I was tasting the ocean!</p>
-<p>What are some of your favorite seafood dishes? Let me know your thoughts below!</p>
+Because I made this for a special date night, I looked up what wines go well with seafood paella. We ended up with a Rueda and it paired amazingly. I'm generally not a fan of dry wines, but there was a slight saltiness to it that, when eaten with some of the seafood, made it seem like I was tasting the ocean!
+What are some of your favorite seafood dishes? Let me know your thoughts below!
 <div class="easyrecipe" data-rating="0">
 <div class="item ERName">Seafood Paella</div>
 <div class="ERClear"></div>
