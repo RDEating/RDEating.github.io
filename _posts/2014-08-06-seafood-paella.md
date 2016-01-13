@@ -5,7 +5,7 @@ date: 2014-08-06 21:12:03.000000000 -04:00
 categories: []
 tags:
   - dinner
-  - recipies
+  - recipes
 status: publish
 type: post
 published: true
@@ -14,12 +14,6 @@ meta:
   _layout: inherit
   _post_restored_from: a:3:{s:20:"restored_revision_id";i:419;s:16:"restored_by_user";i:1;s:13:"restored_time";i:1408921200;}
   _thumbnail_id: '432'
-author:
-  login: meagan.divito
-  email: meagan.divito@gmail.com
-  display_name: Meagan DiVito
-  first_name: Meagan
-  last_name: DiVito
 image: /images/seafood_paella/seafood_paella_1.jpg
 ---
 Seafood paella is one of the recipes I always make when friends/family come to visit, or for special occasions, or just for a special date night... any excuse we can find, we make it. Right now, it is probably my favorite recipe, even trumping my dad's chicken parm, which is <em>really</em> saying something.

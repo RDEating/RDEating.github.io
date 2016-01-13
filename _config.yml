@@ -19,3 +19,43 @@ author: Meagan Phelan
 gems: [jekyll-paginate]
 
 permalink: /:categories/:title/
+
+prose:
+  ignore:
+    - _config_dev/yml
+    - _config.yml
+    - /_includes
+    - /_layouts
+    - /_sass
+    - /_site
+    - CNAME
+    - /css
+    - feed.xml
+    - /fonts
+    - index.html
+    - /js
+    - LICENSE
+    - README.md
+  metadata:
+    - name: "title"
+      field:
+        element: "text"
+        label: "title"
+    - name: "subheadline"
+      field:
+        element: "text"
+        placeholder: "Subheadline"
+    - name: "date"
+      field:
+        element: "text"
+        placeholder: "Date, in YEAR-MONTH-DAY format, i.e., 2015-04-02"
+    - name: "categories"
+      field:
+        element: "multiselect"
+        label: "Add Categories"
+        options:
+          - name: "Recipes"
+            value: "recipies"
+          - name: "Dinner"
+            value: "dinner"
+    
