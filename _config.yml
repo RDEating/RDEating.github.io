@@ -22,7 +22,8 @@ permalink: /:categories/:title/
 
 prose:
   ignore:
-    - _config_dev/yml
+    - .gitignore
+    - _config_dev.yml
     - _config.yml
     - /_includes
     - /_layouts
@@ -58,4 +59,3 @@ prose:
             value: "recipies"
           - name: "Dinner"
             value: "dinner"
-    
