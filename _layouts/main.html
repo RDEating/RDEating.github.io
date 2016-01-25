@@ -13,11 +13,14 @@
 
 				{% include head.html %}
 				<!-- Main -->
-					<div id="main">
+					<div id="main" data-sticky_parent>
+
+            {% include intro.html %}
 
 						<!-- Post -->
+            <div id="content" data-sticky_column>
 			      {{ content }}
-  					<ul class="actions pagination">
+            <ul class="actions pagination">
   					  {% if paginator.previous_page %}
   	  				  <li><a href="{{ paginator.previous_page_path }}" class="button big previous">Previous Page</a></li>
   						{% else %}
@@ -30,27 +33,27 @@
   						  <li><a href="#" class="disabled button big next">Next Page</a></li>
   						{% endif %}
   					</ul>
+
+          </div>
+
+          <section id="sidebar" data-sticky_column>
+          {% include miniposts.html %}
+
+          {% include about.html %}
+
+          {% include instagram.html %}
+
+          {% include footer.html %}
+
+        </section>
+
 					</div>
 
-				<!-- Sidebar -->
-					<section id="sidebar">
-
-						<!-- Intro -->
-						{% include intro.html %}
-
-						<!-- Mini Posts -->
-						{% include miniposts.html %}
-
-						<!-- Posts List -->
-
-						<!-- About -->
-					  {% include about.html %}
-
-						<!-- Footer -->
-						{% include footer.html %}
-					</section>
 			</div>
 		<!-- Scripts -->
 		{% include scripts.html %}
+    <script type="text/javascript">
+    scroll_it = scroll_it_wobble
+    </script>
 	</body>
 </html>

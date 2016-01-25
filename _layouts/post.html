@@ -12,9 +12,11 @@
 			<div id="wrapper">
 
 				{% include head.html %}
-				<!-- Main -->
-					<div id="main">
 
+        <!-- Main -->
+					<div id="main">
+            <!-- Intro -->
+            {% include intro.html %}
 						<!-- Post -->
             <article class="post">
               <header>
@@ -72,6 +74,7 @@ s.setAttribute('data-timestamp', +new Date());
                 </ul>
               </footer>
            </article>
+
   					<ul class="actions pagination">
   					  {% if page.previous %}
   	  				  <li><a href="{{ page.previous.url }}" class="button big previous">Previous Post</a></li>
@@ -86,23 +89,6 @@ s.setAttribute('data-timestamp', +new Date());
   					</ul>
 					</div>
 
-				<!-- Sidebar -->
-					<section id="sidebar">
-
-						<!-- Intro -->
-						{% include intro.html %}
-
-						<!-- Mini Posts -->
-						{% include miniposts.html %}
-
-						<!-- Posts List -->
-
-						<!-- About -->
-					  {% include about.html %}
-
-						<!-- Footer -->
-						{% include footer.html %}
-					</section>
 			</div>
 		<!-- Scripts -->
 		{% include scripts.html %}

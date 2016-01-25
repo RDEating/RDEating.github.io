@@ -16,11 +16,17 @@ meta:
   _thumbnail_id: '432'
 image: /images/seafood_paella/seafood_paella_1.jpg
 ---
+
 Seafood paella is one of the recipes I always make when friends/family come to visit, or for special occasions, or just for a special date night... any excuse we can find, we make it. Right now, it is probably my favorite recipe, even trumping my dad's chicken parm, which is <em>really</em> saying something.
 
-<p style="text-align: center; margin-left: auto; margin-right: auto;"><a href="http://www.forthecloveofgarlic.com/wp-content/uploads/2014/08/P8026070.jpg"><img class="size-medium wp-image-431 alignnone" alt="Seafood Paella" src="assets/P8026070-300x225.jpg" width="300" height="225" /></a> <a href="http://www.forthecloveofgarlic.com/wp-content/uploads/2014/08/P8025945.jpg"><img class="size-medium wp-image-421 alignnone" alt="Seafood Paella" src="assets/P8025945-300x225.jpg" width="300" height="225" /></a></p>
+{: .center}
+![for the cLove of Garlic - Seafood Paella](/images/seafood_paella/seafood_paella_2.jpg) ![for the cLove of Garlic - Seafood Paella](/images/seafood_paella/seafood_paella_3.jpg)
+
 Paella is a traditional Spanish dish of short-grain rice, saffron and good quality olive oil. The 3 most popular versions are seafood, vegetarian, or mixed meat and seafood. I love the seafood and mixed meat/seafood. I am posting the mixed because I find the seafood balances the spice of the chorizo and gives it a subtle rich flavor. If you aren't a sausage or spice fan, just omit it.
-<p style="text-align: center; margin-left: auto; margin-right: auto;"><a href="http://www.forthecloveofgarlic.com/wp-content/uploads/2014/08/P8025943.jpg"><img class="alignnone size-medium wp-image-420" alt="Seafood Paella" src="assets/P8025943-300x225.jpg" width="300" height="225" /></a> <a href="http://www.forthecloveofgarlic.com/wp-content/uploads/2014/08/P8025972.jpg"><img class="alignnone size-medium wp-image-423" alt="Seafood Paella" src="assets/P8025972-300x225.jpg" width="300" height="225" /></a></p>
+
+{: .center}
+![for the cLove of Garlic - Seafood Paella](/images/seafood_paella/seafood_paella_4.jpg) ![for the cLove of Garlic - Seafood Paella](/images/seafood_paella/seafood_paella_5.jpg)
+
 Note: You do not need to have a paella pan to make this recipe- for over a year I used a large, 2 inch deep skillet, and it turned out great each time. The paella pan just allows the bottom to crisp more evenly- and Dan loves the charred bottom.
 <span style="text-decoration: underline;"><strong>Fun facts about paella:</strong></span>
 <ul>
@@ -31,11 +37,20 @@ Note: You do not need to have a paella pan to make this recipe- for over a year 
 <li>Saffron is the most expensive spice in the world at $500-$5,000 dollars per pound. It is what provides the paella's yellow/orange coloring.</li>
 </ul>
 <p style="text-align: center;"><span style="text-align: center;">This is a before-and-after of the tomatoes and sofrita caramelizing together:</span></p>
-<p style="text-align: center; margin-left: auto; margin-right: auto;"><a href="http://www.forthecloveofgarlic.com/wp-content/uploads/2014/08/P8025986.jpg"><img class="alignnone size-medium wp-image-424" alt="Seafood Paella" src="assets/P8025986-300x225.jpg" width="300" height="225" /></a> <a href="http://www.forthecloveofgarlic.com/wp-content/uploads/2014/08/P8025994.jpg"><img class="alignnone size-medium wp-image-425" alt="Seafood Paella" src="assets/P8025994-300x225.jpg" width="300" height="225" /></a></p>
+
+{: .center}
+![for the cLove of Garlic - Seafood Paella](/images/seafood_paella/seafood_paella_6.jpg) ![for the cLove of Garlic - Seafood Paella](/images/seafood_paella/seafood_paella_7.jpg)
+
 <p style="text-align: center; margin-left: auto; margin-right: auto;">Toasting rice, the addition of chicken broth, and absorption of broth:</p>
-<p style="text-align: center; margin-left: auto; margin-right: auto;"><a href="http://www.forthecloveofgarlic.com/wp-content/uploads/2014/08/P8026006.jpg"><img class="size-medium wp-image-426  alignnone" alt="Seafood Paella" src="assets/P8026006-300x225.jpg" width="300" height="225" /></a> <a href="http://www.forthecloveofgarlic.com/wp-content/uploads/2014/08/P8026021.jpg"><img class="size-medium wp-image-427  alignnone" alt="Seafood Paella" src="assets/P8026021-300x225.jpg" width="300" height="225" /></a> <a href="http://www.forthecloveofgarlic.com/wp-content/uploads/2014/08/P8026023.jpg"><img class="size-medium wp-image-440  alignnone" alt="Seafood Paella" src="assets/P8026023-300x225.jpg" width="300" height="225" /></a></p>
+
+{: .center}
+![for the cLove of Garlic - Seafood Paella](/images/seafood_paella/seafood_paella_8.jpg) ![for the cLove of Garlic - Seafood Paella](/images/seafood_paella/seafood_paella_9.jpg) ![for the cLove of Garlic - Seafood Paella](/images/seafood_paella/seafood_paella_10.jpg)
+
 <p style="text-align: center;"> Finally, the finished product:</p>
-<p style="text-align: center; margin-left: auto; margin-right: auto;"><a style="text-align: center;" href="http://www.forthecloveofgarlic.com/wp-content/uploads/2014/08/P8026040.jpg"><img class="alignnone size-medium wp-image-429" alt="Seafood Paella" src="assets/P8026040-225x300.jpg" width="225" height="300" /></a><span style="text-align: center;"> </span><a style="text-align: center;" href="http://www.forthecloveofgarlic.com/wp-content/uploads/2014/08/P8026077.jpg"><img class="alignnone size-medium wp-image-433" alt="Seafood Paella" src="assets/P8026077-225x300.jpg" width="225" height="300" /></a></p>
+
+{: .center}
+![for the cLove of Garlic - Seafood Paella](/images/seafood_paella/seafood_paella_11.jpg) ![for the cLove of Garlic - Seafood Paella](/images/seafood_paella/seafood_paella_12.jpg)
+
 Because I made this for a special date night, I looked up what wines go well with seafood paella. We ended up with a Rueda and it paired amazingly. I'm generally not a fan of dry wines, but there was a slight saltiness to it that, when eaten with some of the seafood, made it seem like I was tasting the ocean!
 What are some of your favorite seafood dishes? Let me know your thoughts below!
 <div class="easyrecipe" data-rating="0">
@@ -43,7 +58,7 @@ What are some of your favorite seafood dishes? Let me know your thoughts below!
 <div class="ERClear"></div>
 <div class="ERHead"><span class="xlate">Recipe Type</span>: <span class="type">Entree</span></div>
 <div class="ERHead">Cuisine: <span class="cuisine">Spanish</span></div>
-<div class="ERHead">Author: <span class="author">Meagan</span></div>
+<div class="ERHead">Author: <span class="cook">Meagan</span></div>
 <div class="ERHead">Prep time: <time itemprop="prepTime" datetime="PT15M">15 mins</time></div>
 <div class="ERHead">Cook time: <time itemprop="cookTime" datetime="PT50M">50 mins</time></div>
 <div class="ERHead">Total time: <time itemprop="totalTime" datetime="PT1H5M">1 hour 5 mins</time></div>
@@ -73,8 +88,8 @@ What are some of your favorite seafood dishes? Let me know your thoughts below!
 <div class="ERInstructionsHeader">Instructions</div>
 <div class="instructions">
 <ol>
-<li class="instruction">Heat oil in a paella pan over medium-high heat. Saute the chorizo until browned, remove and reserve.</li>
-<li class="instruction">In the same pan, make a sofrito by sauteing the onions, garlic, and parsley. Cook for 2 or 3 minutes on a medium heat.</li>
+<li class="instruction">Heat oil in a paella pan over medium-high heat. Sauté the chorizo until browned, remove and reserve.</li>
+<li class="instruction">In the same pan, make a sofrito by sautéing the onions, garlic, and parsley. Cook for 2 or 3 minutes on a medium heat.</li>
 <li class="instruction">Reduce heat to medium. Add diced tomatoes and cook until the mixture caramelizes a bit and the flavors meld- about 10 minutes.</li>
 <li class="instruction">Fold in the rice and stir-fry to coat the grains, cook 2-3 minutes.</li>
 <li class="instruction">Pour in chicken broth and simmer for 15 minutes, gently stirring so the rice cooks evenly and absorbs 2/3 of the liquid.</li>
