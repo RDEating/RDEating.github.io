@@ -2142,7 +2142,7 @@
 		.image.center {
 			display: block;
 			margin: 0 auto;
-			padding: 0 1.5em 1em 0;
+			padding: 1em 1em 1em 1em;
 			top: 0.25em;
 		}
 
@@ -2159,7 +2159,7 @@
 		.image.featured {
 			display: block;
 			margin: auto;
-			padding-bottom: 5px;
+			padding-bottom: 10px;
 			width: 75%;
 		}
 

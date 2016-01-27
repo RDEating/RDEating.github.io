@@ -17,20 +17,29 @@ author:
   display_name: Meagan DiVito
   first_name: Meagan
   last_name: DiVito
+image: /images/ratatouille/ratatouille_1.jpg
 ---
-<p style="text-align: center;"><img class="alignnone size-medium wp-image-162" alt="Ratatouille" src="assets/PC305123.jpg" width="400" height="300" />  <a href="http://www.forthecloveofgarlic.com/wp-content/uploads/2013/12/PC305161.jpg"><img class="alignnone size-medium wp-image-163" alt="Ratatouille" src="assets/PC305161.jpg" width="400" height="300" /></a></p>
-<p style="text-align: center;">Happy Monday! I hope you all had a wonderful Holiday and that Santa got you that something special under the tree. ;) After a nice relaxing week home, it's time to jump back into the blogging mode. Dan got me a new, extra sharp knife for Christmas and I am ready to chop away at all the amazing recipes I've got lined up!</p>
 
-<p style="text-align: center;">!<img class="alignnone size-medium wp-image-159" alt="Ratatouille" src="assets/PC305100.jpg" width="500" height="425" /></p>
-<p style="text-align: center;">While I was home, my mom asked me to make ratatouille because she saw a picture of it on my Facebook page. I was immediately nervous because my dad and brothers do <strong>not</strong> eat vegetables. But, neither did Dan prior to us dating, so I gave it a try. I am here to report that the dietitian strikes again!! I got my family to eat a vegetarian dish and they <em>liked</em> it.Whoa! I'm doing a little jiggle just thinking about it!!</p>
-<p style="text-align: center;"> <a href="http://www.forthecloveofgarlic.com/wp-content/uploads/2013/12/PC305108.jpg"><img class="alignnone size-medium wp-image-160" alt="Ratatouille" src="assets/PC305108.jpg" width="400" height="300" /></a> <a href="http://www.forthecloveofgarlic.com/wp-content/uploads/2013/12/PC305110.jpg"><img class="alignnone size-medium wp-image-161" alt="Ratatouille" src="assets/PC305110.jpg" width="400" height="300" /></a>   <a href="http://www.forthecloveofgarlic.com/wp-content/uploads/2013/12/PC305172.jpg"><img class="alignnone size-medium wp-image-165" alt="Ratatouille" src="assets/PC305172.jpg" width="400" height="300" /></a></p>
-<p style="text-align: center;">This ratatouille is not only super flavorful and beautiful, but easy to make. The bulk of the work lies in chopping each of the vegetables and then layering them in whatever shape you like. I prefer circular because it gives it a little something extra compared to a square pan, but feel free to use whatever is in your kitchen!</p>
-<p>&nbsp;</p>
+Happy Monday! I hope you all had a wonderful Holiday and that Santa got you that something special under the tree. ;) After a nice relaxing week home, it's time to jump back into the blogging mode. Dan got me a new, extra sharp knife for Christmas and I am ready to chop away at all the amazing recipes I've got lined up!
+
+{: .center}
+![for the cLove of Garlic - Ratatouille](/images/ratatouille/ratatouille_2.jpg)
+
+While I was home, my mom asked me to make ratatouille because she saw a picture of it on my Facebook page. I was immediately nervous because my dad and brothers do <strong>not</strong> eat vegetables. But, neither did Dan prior to us dating, so I gave it a try. I am here to report that the dietitian strikes again!! I got my family to eat a vegetarian dish and they <em>liked</em> it.Whoa! I'm doing a little jiggle just thinking about it!!
+
+{: .center}
+![for the cLove of Garlic - Ratatouille](/images/ratatouille/ratatouille_3.jpg) ![for the cLove of Garlic - Ratatouille](/images/ratatouille/ratatouille_4.jpg)
+
+{: .center}
+![for the cLove of Garlic - Ratatouille](/images/ratatouille/ratatouille_5.jpg)
+
+This ratatouille is not only super flavorful and beautiful, but easy to make. The bulk of the work lies in chopping each of the vegetables and then layering them in whatever shape you like. I prefer circular because it gives it a little something extra compared to a square pan, but feel free to use whatever is in your kitchen!
+
 <div class="easyrecipe">
 <div class="item ERName">Ratatouille</div>
 <div class="ERClear"></div>
 <div class="ERHead"><span class="xlate">Recipe Type</span>: <span class="type">Dinner</span></div>
-<div class="ERHead">Author: <span class="author">Meagan DiVito</span></div>
+<div class="ERHead">Author: <span class="class">Meagan DiVito</span></div>
 <div class="ERHead">Prep time: <time itemprop="prepTime" datetime="PT20M">20 mins</time></div>
 <div class="ERHead">Cook time: <time itemprop="cookTime" datetime="PT45M">45 mins</time></div>
 <div class="ERHead">Total time: <time itemprop="totalTime" datetime="PT1H5M">1 hour 5 mins</time></div>

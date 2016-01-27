@@ -18,7 +18,8 @@ author:
   first_name: Meagan
   last_name: DiVito
 ---
-<p>The word <em>healthy </em>is not typically synonymous with holiday eating. Growing up in an Italian family, Christmas season = food, and lots of it. From the seven fishes Christmas Eve, to all of the Italian Christmas cookies, we do a lot of eating. So how do I survive the holiday season? Through my <a href="http://www.forthecloveofgarlic.com/?p=62">nutrition philosophy</a> and these 10 tips and tricks!</p>
+
+The word <em>healthy </em>is not typically synonymous with holiday eating. Growing up in an Italian family, Christmas season = food, and lots of it. From the seven fishes Christmas Eve, to all of the Italian Christmas cookies, we do a lot of eating. So how do I survive the holiday season? Through my <a href="http://www.forthecloveofgarlic.com/?p=62">nutrition philosophy</a> and these 10 tips and tricks!
 
 <p><strong><a href="http://www.forthecloveofgarlic.com/wp-content/uploads/2013/12/water.jpg"><img class="size-medium wp-image-143 alignright" alt="Water" src="assets/water-200x300.jpg" width="200" height="300" /></a>10. Always have water handy. </strong>While I enjoy a glass of wine with my Christmas meal, having a glass of water always available will limit the amount of food and sugar-sweetened beverages consumed- thus reducing calories.</p>
 <p><strong>9. Focus on family, not food. </strong>Avoid standing directly next to the buffet table filled with your favorite treats. Try to spend time away for the dinner table and socialize with family and friends. Even better- go outside and play with the kids or dogs. This not only gets you away from the table, but gives you a chance to exercise!</p>
