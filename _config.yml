@@ -1,13 +1,13 @@
 # Site settings
-title: for the cLove of Garlic
+title: RD Eating
 email: dtphelan@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   It's a food blog. The wonderful Meagan Phelan brings you delicious recipies,
   patented RD Rants, and anything else that comes to mind. Eat up!
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://forthecloveofgarlic.github.io" # the base hostname & protocol for your site
+url: "http://rdeating.com" # the base hostname & protocol for your site
 twitter_username: RDMegD
-github_username:  forthecloveofgarlic
+github_username:  RDEating
 
 # Build settings
 markdown: kramdown
