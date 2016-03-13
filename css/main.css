@@ -1395,7 +1395,7 @@
   font-family: 'Klee';
   font-style: normal;
   font-weight: normal;
-  src: local('Klee'), url('/klee.ttc') format('truetype');
+  src: local('Klee'), url('/klee.ttf') format('truetype');
 }
 
 /* Basic */
