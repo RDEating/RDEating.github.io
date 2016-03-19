@@ -3,7 +3,7 @@ A food blog, written by RD Meagan Phelan. Jekyll, through GitHub pages.
 
 # To Do
 MVP
-- [ ] Fix font issue...fonts appear different on mobile devices
+- [x] Fix font issue...fonts appear different on mobile devices
 - [ ] Fix "About" heading size
 - [ ] Menu spacing
 - [ ] Image decoration
@@ -11,6 +11,7 @@ MVP
 - [ ] Favicon
 - [ ] Recipe styling
 - [ ] Get Meagan set up with Prose/GitHub
+- [ ] Meagan's photo in About section
 
 Optionals
 - [ ] Menu items

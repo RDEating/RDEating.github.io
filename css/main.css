@@ -48,6 +48,14 @@
 		-webkit-text-size-adjust: none;
 	}
 
+/* Font */
+	@font-face {
+	  font-family: 'Klee';
+	  font-style: normal;
+	  font-weight: normal;
+	  src: local('Klee'), url('klee.ttf') format('truetype');
+	}
+
 /* Box Model */
 
 	*, *:before, *:after {
@@ -1390,14 +1398,6 @@
 	}
 
 
-/* Font */
-@font-face {
-  font-family: 'Klee';
-  font-style: normal;
-  font-weight: normal;
-  src: local('Klee'), url('/klee.ttf') format('truetype');
-}
-
 /* Basic */
 
 	@-ms-viewport {
@@ -1417,7 +1417,7 @@
 	}
 
 	body {
-		background: #CCDDD3;
+		background-image: url("/background.png");
 	}
 
 		body.is-loading *, body.is-loading *:before, body.is-loading *:after {
@@ -1524,7 +1524,7 @@
 
 	h1, h2, h3, h4, h5, h6 {
 		color: #ff9966;
-    	font-family: 'Klee', serif;;
+    	font-family: 'Sue Ellen Francisco', serif;
 		font-weight: 800;
 		line-height: 1.15;
 		margin: 0 0 1em 0;
@@ -2268,6 +2268,7 @@
 			cursor: default;
 			list-style: none;
 			padding-left: 0;
+			width: auto;
 		}
 
 			ul.actions li {
@@ -2282,6 +2283,7 @@
 
 			ul.actions.pagination .next {
 				text-decoration: none;
+				background-color: #FDFFF7;
 			}
 
 				ul.actions.pagination .next:after {
@@ -2300,6 +2302,7 @@
 
 			ul.actions.pagination .previous {
 				text-decoration: none;
+				background-color: #FDFFF7;
 			}
 
 				ul.actions.pagination .previous:before {
@@ -2477,7 +2480,7 @@
 
 					ul.posts article header .published {
 						display: block;
-						font-family: "Raleway", Helvetica, 游ゴシック体, 'Yu Gothic', YuGothic, 'ヒラギノ角ゴシック Pro', 'Hiragino Kaku Gothic Pro', メイリオ, Meiryo, Osaka, 'ＭＳ Ｐゴシック', 'MS PGothic', sans-serif;
+						font-family: 'Sue Ellen Francisco', serif;'
 						font-size: 0.6em;
 						font-weight: 400;
 						letter-spacing: 0.25em;
@@ -2683,7 +2686,7 @@
 				.post > header .meta .published {
 					color: #3c3b3b;
 					display: block;
-          			font-family: 'Klee', serif;;
+          			font-family: 'Sue Ellen Francisco', serif;;
 					font-weight: 800;
 					letter-spacing: 0.25em;
 					font-size: 1.2em;
@@ -3071,7 +3074,7 @@
 
 				#header .links ul li a {
 					border-bottom: 0;
-			        font-family: 'Klee', serif;;
+			        font-family: 'Sue Ellen Francisco', serif;;
 					font-size: 1.2em;
 					font-weight: 400;
 					letter-spacing: 0.25em;
@@ -3308,8 +3311,10 @@
 
 	#intro {
 		margin: 0 0 1.5em 0;
+		padding-top: 1.5em;
 		text-align: center;
 		width:100%;
+		background: #FDFFF7;
 	}
 
 	#intro .logo {
@@ -3400,7 +3405,7 @@
 
 	#footer .copyright {
 		color: #aaaaaa;
-    font-family: "Raleway", Helvetica, 游ゴシック体, 'Yu Gothic', YuGothic, 'ヒラギノ角ゴシック Pro', 'Hiragino Kaku Gothic Pro', メイリオ, Meiryo, Osaka, 'ＭＳ Ｐゴシック', 'MS PGothic', sans-serif;
+	    font-family: "Raleway", Helvetica, 游ゴシック体, 'Yu Gothic', YuGothic, 'ヒラギノ角ゴシック Pro', 'Hiragino Kaku Gothic Pro', メイリオ, Meiryo, Osaka, 'ＭＳ Ｐゴシック', 'MS PGothic', sans-serif;
 		font-size: 0.5em;
 		font-weight: 400;
 		letter-spacing: 0.25em;
