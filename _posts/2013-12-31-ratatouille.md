@@ -23,15 +23,15 @@ image: /images/ratatouille/ratatouille_1.jpg
 Happy Monday! I hope you all had a wonderful Holiday and that Santa got you that something special under the tree. ;) After a nice relaxing week home, it's time to jump back into the blogging mode. Dan got me a new, extra sharp knife for Christmas and I am ready to chop away at all the amazing recipes I've got lined up!
 
 {: .center}
-![for the cLove of Garlic - Ratatouille](/images/ratatouille/ratatouille_2.jpg)
+![RD Eating - Ratatouille](/images/ratatouille/ratatouille_2.jpg)
 
 While I was home, my mom asked me to make ratatouille because she saw a picture of it on my Facebook page. I was immediately nervous because my dad and brothers do <strong>not</strong> eat vegetables. But, neither did Dan prior to us dating, so I gave it a try. I am here to report that the dietitian strikes again!! I got my family to eat a vegetarian dish and they <em>liked</em> it.Whoa! I'm doing a little jiggle just thinking about it!!
 
 {: .center}
-![for the cLove of Garlic - Ratatouille](/images/ratatouille/ratatouille_3.jpg) ![for the cLove of Garlic - Ratatouille](/images/ratatouille/ratatouille_4.jpg)
+![RD Eating - Ratatouille](/images/ratatouille/ratatouille_3.jpg) ![RD Eating - Ratatouille](/images/ratatouille/ratatouille_4.jpg)
 
 {: .center}
-![for the cLove of Garlic - Ratatouille](/images/ratatouille/ratatouille_5.jpg)
+![RD Eating - Ratatouille](/images/ratatouille/ratatouille_5.jpg)
 
 This ratatouille is not only super flavorful and beautiful, but easy to make. The bulk of the work lies in chopping each of the vegetables and then layering them in whatever shape you like. I prefer circular because it gives it a little something extra compared to a square pan, but feel free to use whatever is in your kitchen!
 

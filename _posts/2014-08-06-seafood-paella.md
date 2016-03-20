@@ -20,12 +20,12 @@ image: /images/seafood_paella/seafood_paella_1.jpg
 Seafood paella is one of the recipes I always make when friends/family come to visit, or for special occasions, or just for a special date night... any excuse we can find, we make it. Right now, it is probably my favorite recipe, even trumping my dad's chicken parm, which is <em>really</em> saying something.
 
 {: .center}
-![for the cLove of Garlic - Seafood Paella](/images/seafood_paella/seafood_paella_2.jpg) ![for the cLove of Garlic - Seafood Paella](/images/seafood_paella/seafood_paella_3.jpg)
+![RD Eating - Seafood Paella](/images/seafood_paella/seafood_paella_2.jpg) ![RD Eating - Seafood Paella](/images/seafood_paella/seafood_paella_3.jpg)
 
 Paella is a traditional Spanish dish of short-grain rice, saffron and good quality olive oil. The 3 most popular versions are seafood, vegetarian, or mixed meat and seafood. I love the seafood and mixed meat/seafood. I am posting the mixed because I find the seafood balances the spice of the chorizo and gives it a subtle rich flavor. If you aren't a sausage or spice fan, just omit it.
 
 {: .center}
-![for the cLove of Garlic - Seafood Paella](/images/seafood_paella/seafood_paella_4.jpg) ![for the cLove of Garlic - Seafood Paella](/images/seafood_paella/seafood_paella_5.jpg)
+![RD Eating - Seafood Paella](/images/seafood_paella/seafood_paella_4.jpg) ![RD Eating - Seafood Paella](/images/seafood_paella/seafood_paella_5.jpg)
 
 Note: You do not need to have a paella pan to make this recipe- for over a year I used a large, 2 inch deep skillet, and it turned out great each time. The paella pan just allows the bottom to crisp more evenly- and Dan loves the charred bottom.
 <span style="text-decoration: underline;"><strong>Fun facts about paella:</strong></span>
@@ -39,17 +39,17 @@ Note: You do not need to have a paella pan to make this recipe- for over a year 
 <p style="text-align: center;"><span style="text-align: center;">This is a before-and-after of the tomatoes and sofrita caramelizing together:</span></p>
 
 {: .center}
-![for the cLove of Garlic - Seafood Paella](/images/seafood_paella/seafood_paella_6.jpg) ![for the cLove of Garlic - Seafood Paella](/images/seafood_paella/seafood_paella_7.jpg)
+![RD Eating - Seafood Paella](/images/seafood_paella/seafood_paella_6.jpg) ![RD Eating - Seafood Paella](/images/seafood_paella/seafood_paella_7.jpg)
 
 <p style="text-align: center; margin-left: auto; margin-right: auto;">Toasting rice, the addition of chicken broth, and absorption of broth:</p>
 
 {: .center}
-![for the cLove of Garlic - Seafood Paella](/images/seafood_paella/seafood_paella_8.jpg) ![for the cLove of Garlic - Seafood Paella](/images/seafood_paella/seafood_paella_9.jpg) ![for the cLove of Garlic - Seafood Paella](/images/seafood_paella/seafood_paella_10.jpg)
+![RD Eating - Seafood Paella](/images/seafood_paella/seafood_paella_8.jpg) ![RD Eating - Seafood Paella](/images/seafood_paella/seafood_paella_9.jpg) ![RD Eating - Seafood Paella](/images/seafood_paella/seafood_paella_10.jpg)
 
 <p style="text-align: center;"> Finally, the finished product:</p>
 
 {: .center}
-![for the cLove of Garlic - Seafood Paella](/images/seafood_paella/seafood_paella_11.jpg) ![for the cLove of Garlic - Seafood Paella](/images/seafood_paella/seafood_paella_12.jpg)
+![RD Eating - Seafood Paella](/images/seafood_paella/seafood_paella_11.jpg) ![RD Eating - Seafood Paella](/images/seafood_paella/seafood_paella_12.jpg)
 
 Because I made this for a special date night, I looked up what wines go well with seafood paella. We ended up with a Rueda and it paired amazingly. I'm generally not a fan of dry wines, but there was a slight saltiness to it that, when eaten with some of the seafood, made it seem like I was tasting the ocean!
 What are some of your favorite seafood dishes? Let me know your thoughts below!

@@ -23,17 +23,17 @@ image: /images/vegetarian_chili/vegetarian_chili_1.jpg
 With my New Year's Resolution in mind, I made this chili today. It's one of the more time consuming meals on our agenda this week, so making it on a Sunday, when I don't have any gym stuff planned, seemed like a good idea. Aaand the leftovers are amazingggg. I LOVE being able to open my fridge, grab a container of leftovers, and BAM...done packing my lunch. When you have to be at work by 7am, those 5 minutes make a world of a difference. Not to mention I get a super-delicious and oh-so-nutritious&nbsp;<em>hot</em> lunch!
 
 {: .center}
-![for the cLove of Garlic - Vegetarian Chili](/images/vegetarian_chili/vegetarian_chili_2.jpg) ![for the cLove of Garlic - Vegetarian Chili](/images/vegetarian_chili/vegetarian_chili_3.jpg)
+![RD Eating - Vegetarian Chili](/images/vegetarian_chili/vegetarian_chili_2.jpg) ![RD Eating - Vegetarian Chili](/images/vegetarian_chili/vegetarian_chili_3.jpg)
 
 Like the veggieburger, this recipe takes a bit of extra time for chopping all the veggies. But once you get done dicing, you pretty much hang out and let it cook. If you are a football fan, you can get all the veggies chopped up by halftime and then can stir it during the commercials until it's finished (we watch a little bit of football in this household...).
 
 {: .center}
-![for the cLove of Garlic - Vegetarian Chili](/images/vegetarian_chili/vegetarian_chili_4.jpg) ![for the cLove of Garlic - Vegetarian Chili](/images/vegetarian_chili/vegetarian_chili_5.jpg)
+![RD Eating - Vegetarian Chili](/images/vegetarian_chili/vegetarian_chili_4.jpg) ![RD Eating - Vegetarian Chili](/images/vegetarian_chili/vegetarian_chili_5.jpg)
 
 Feel free to add or omit the chili powder depending on your spice tolerance. I like things extra spicy, but Dan is not so tolerant of spice. He says this is just hot enough for him, but I added a bit more powder to mine on the side. Also, keep in mind that chili powder does decrease in intensity the longer it sits and cooks. So, if you are planning on letting this simmer for an hour you may want to add a little more powder.
 
 {: .center}
-![for the cLove of Garlic - Vegetarian Chili](/images/vegetarian_chili/vegetarian_chili_6.jpg)
+![RD Eating - Vegetarian Chili](/images/vegetarian_chili/vegetarian_chili_6.jpg)
 
 <div class="easyrecipe">
 <div class="item ERName">Vegetarian Chili</div>

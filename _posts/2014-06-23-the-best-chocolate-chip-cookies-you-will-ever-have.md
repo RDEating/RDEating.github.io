@@ -25,17 +25,17 @@ image: /images/cookies/cookies_1.jpg
 So, I had a bit of a debate when deciding if I should post these chocolate chip cookies. Chocolate chip cookies are just very traditional, and don't necessarily scream excitement. But, this recipe produces by far the best chocolate chip cookie you could eat. And I have high standards.
 
 {: .center}
-![for the cLove of Garlic - The Best Chocolate Chip Cookies You Will Ever Have](/images/cookies/cookies_2.jpg) ![for the cLove of Garlic - The Best Chocolate Chip Cookies You Will Ever Have](/images/cookies/cookies_3.jpg)
+![RD Eating - The Best Chocolate Chip Cookies You Will Ever Have](/images/cookies/cookies_2.jpg) ![RD Eating - The Best Chocolate Chip Cookies You Will Ever Have](/images/cookies/cookies_3.jpg)
 
 One big difference in this recipe compared to most chocolate chip cookies is the temperature of the oven. Typically, cookies should be baked at 375. I find that cooking these at 350 making the dough softer, even after they have fully cooled. Another big difference is the type of fat I used-shortening. Yes, this is not even close to healthy. <a href="http://www.forthecloveofgarlic.com/?p=62">See this post if you feel like giving me crap for it</a>. Shortening has a higher melting point than butter, which means that instead of the layer of oil you get at the bottom of the pan when baking with butter, all of the fat stays inside of the cookie. Fat inside the cookie = tender, moist, and amazing.
 
 An important thing to note when baking is carry over cooking. Your pan is still hot when coming out of the oven and therefore is still cooking the food you have on it. Cooling racks can cause cookies to fall apart, which is a tragedy I try to avoid at all costs. So to combat this issue, I will actually take the cookies out just prior to being fully cooked. This means the cookie will be slightly underdone in the middle and the outsides of the cookie should just start to brown when you take it out of the oven.
 
 {: .center}
-![for the cLove of Garlic - The Best Chocolate Chip Cookies You Will Ever Have](/images/cookies/cookies_4.jpg) ![for the cLove of Garlic - The Best Chocolate Chip Cookies You Will Ever Have](/images/cookies/cookies_5.jpg)
+![RD Eating - The Best Chocolate Chip Cookies You Will Ever Have](/images/cookies/cookies_4.jpg) ![RD Eating - The Best Chocolate Chip Cookies You Will Ever Have](/images/cookies/cookies_5.jpg)
 
 {: .center}
-![for the cLove of Garlic - The Best Chocolate Chip Cookies You Will Ever Have](/images/cookies/cookies_6.jpg) ![for the cLove of Garlic - The Best Chocolate Chip Cookies You Will Ever Have](/images/cookies/cookies_7.jpg)
+![RD Eating - The Best Chocolate Chip Cookies You Will Ever Have](/images/cookies/cookies_6.jpg) ![RD Eating - The Best Chocolate Chip Cookies You Will Ever Have](/images/cookies/cookies_7.jpg)
 
 
 <div class="easyrecipe">

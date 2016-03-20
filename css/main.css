@@ -1672,7 +1672,7 @@
 /* Blurb */
 
 	.blurb h2 {
-		font-size: 0.8em;
+		font-size: 1.1em;
 		margin: 1em .5em 1.5em .5em;
 	}
 
@@ -1686,13 +1686,8 @@
 
 /* Instagram*/
 
-	.instagram {
-		display: inline;
-		margin: auto;
-	}
-
 	.instagram h2 {
-		font-size: 0.8em;
+		font-size: 1.1em;
 		margin: 1em .5em 1.5em .5em;
 	}
 
@@ -2115,6 +2110,10 @@
 		}
 
 /* Image */
+	img {
+		border-radius: 3px;
+	}
+
 	.center {
 		text-align: center;
 	}
@@ -3019,7 +3018,7 @@
 		position: fixed;
 		top: 0;
 		width: 100%;
-		z-index: 10000;
+		z-index: 2147483647;
 	}
 
 		#header a {
@@ -3323,11 +3322,10 @@
 		margin: 0 0 .5em 0;
 		overflow: hidden;
 		position: relative;
-		width: 4em;
+		width: 5em;
 	}
 
 		#intro .logo:before {
-			background-image: url("data:image/svg+xml;charset=utf8,%3Csvg xmlns='http://www.w3.org/2000/svg' width='100px' height='100px' viewBox='0 0 100 100' preserveAspectRatio='none' zoomAndPan='disable'%3E%3Cpolygon points='0,0 100,0 100,25 50,0 0,25' style='fill:%23f4f4f4' /%3E%3Cpolygon points='0,100 100,100 100,75 50,100 0,75' style='fill:%23f4f4f4' /%3E%3C/svg%3E");
 			background-position: top left;
 			background-repeat: no-repeat;
 			background-size: 100% 100%;
@@ -3460,12 +3458,16 @@
 				border: 0;
 				border-top: dotted 1px rgba(160, 160, 160, 0.3);
 				margin: 1.5em 0 0 0;
-				padding: 1.5em 0 0 0;
 			}
 
 				#menu .links > li a {
 					display: block;
 					border-bottom: 0;
+					padding: 1.5em 0 0 0;
+				}
+
+				#menu .links > li h3 {
+					margin: 0 0 0 0;
 				}
 
 					#menu .links > li a h3 {
@@ -3473,7 +3475,7 @@
 						-webkit-transition: color 0.2s ease;
 						-ms-transition: color 0.2s ease;
 						transition: color 0.2s ease;
-						font-size: 0.7em;
+						font-size: 1.1em;
 					}
 
 					#menu .links > li a p {

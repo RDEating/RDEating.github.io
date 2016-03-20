@@ -25,7 +25,7 @@ image: /images/eating_healthy/eating_healthy_1.jpg
 I thought a nutrition topic on budget eating would be a great first post in my newly unemployed status. So far, unemployment has been BUSY. How did I work 40 hours a week and still get stuff done?? Granted, much of my day consists of wedding planning (I just spent the last 2 hours researching how to make wooden benches) and filling out applications, which are not particularly strenuous activities, but then I cook, clean, work out, and BAM the day is over. I digress... Here are the strategies I use to keep our food budget in check!
 
 {: .center}
-![for the cLove of Garlic - Eating Healthy on a Budget](/images/eating_healthy/eating_healthy_2.jpg)
+![RD Eating - Eating Healthy on a Budget](/images/eating_healthy/eating_healthy_2.jpg)
 
 1.    <strong>Make a meal plan. </strong>This serves many budget friendly purposes. It allows you to figure out exactly what items you need to purchase without making extra trips to the grocery store later in the week. It also reduces food waste as you can determine what items you have in storage and use them in your next meal. You should also adjust your meal plan based on what is on sale each week, which is why you should...
 

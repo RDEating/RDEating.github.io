@@ -1,12 +1,14 @@
 # Site settings
 title: RD Eating
-email: dtphelan@gmail.com
+email: rdeating@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   Welcome to RD Eating! My name is Meagan, and I'm a Registered Dietitian living in Washington, DC. On this site, you'll find a variety of recipes and nutrition information that I hope will inspire you to make delicious, nutritious meals at home!
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://rdeating.com" # the base hostname & protocol for your site
 twitter_username: RDMegD
 github_username:  RDEating
+pinterest_username: meagan6518
+instagram_username: meagan.phelan
 
 # Build settings
 markdown: kramdown

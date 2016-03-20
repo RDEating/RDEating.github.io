@@ -18,7 +18,7 @@
             {% include intro.html %}
 
 						<!-- Post -->
-            <div id="content" data-sticky_column>
+            <div id="content">
 			      {{ content }}
             <ul class="actions pagination">
   					  {% if paginator.previous_page %}
@@ -35,7 +35,7 @@
 
           </div>
 
-          <section id="sidebar" data-sticky_column>
+          <section id="sidebar">
 
           {% include about.html %}
 
@@ -52,8 +52,5 @@
 			</div>
 		<!-- Scripts -->
 		{% include scripts.html %}
-    <script type="text/javascript">
-    scroll_it = scroll_it_wobble
-    </script>
 	</body>
 </html>

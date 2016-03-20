@@ -25,22 +25,22 @@ image: /images/enchilada/enchilada_1.jpg
 I know that I promised yummy seafood paella this week... but there weren't any sales on seafood. <a href="http://www.forthecloveofgarlic.com/?p=244">And we know how much I like sales.</a>  And while the formal title of this recipe is "Roasted Vegetable Enchilada," it should be called "Mexican Lasagna."  With corn tortillas as noodles and salsa as the sauce <strong>plus</strong> a whole lot of delicious veggies and cheese layered to perfection, how can you not compare it to one of my favorite Italian dishes!? Also like lasagna, it magically gets better the longer it sits. Hurray for yummy leftovers!
 
 {: .center}
-![for the cLove of Garlic - Roasted Vegetable Enchilada](/images/enchilada/enchilada_2.jpg) ![for the cLove of Garlic - Roasted Vegetable Enchilada](/images/enchilada/enchilada_3.jpg)
+![RD Eating - Roasted Vegetable Enchilada](/images/enchilada/enchilada_2.jpg) ![RD Eating - Roasted Vegetable Enchilada](/images/enchilada/enchilada_3.jpg)
 
 Before we dive into our recipe this week, I'd thought I would share some pics of our new kitchen. It is soooo magical to have a pantry, multiple counter tops, and enough cabinet space to put all of my appliances. We even have some room for wedding gifts! Dan and I went browsing at Sur La Table this past weekend and let me tell you, those cabinets are going to be <strong>full</strong> when the time comes. Can you say <em>pasta maker? </em>
 
 {: .center}
-![for the cLove of Garlic - Roasted Vegetable Enchilada](/images/enchilada/enchilada_4.jpg) ![for the cLove of Garlic - Roasted Vegetable Enchilada](/images/enchilada/enchilada_5.jpg)
+![RD Eating - Roasted Vegetable Enchilada](/images/enchilada/enchilada_4.jpg) ![RD Eating - Roasted Vegetable Enchilada](/images/enchilada/enchilada_5.jpg)
 
 As you could probably tell from my other posts, I love recipes that can be customized. If you want meat, you could certainly add shredded chicken or even chunks of beef to this. You could also add beans (I used a bean salsa), other kinds of peppers, fresh tomatoes, and carrots. I was nice to Dan and cut back a bunch on the chili powder on this one, my <a href="http://www.forthecloveofgarlic.com/?p=194">vegetarian chili</a>, not so much.
 
 {: .center}
-![for the cLove of Garlic - Roasted Vegetable Enchilada](/images/enchilada/enchilada_6.jpg) ![for the cLove of Garlic - Roasted Vegetable Enchilada](/images/enchilada/enchilada_7.jpg)
+![RD Eating - Roasted Vegetable Enchilada](/images/enchilada/enchilada_6.jpg) ![RD Eating - Roasted Vegetable Enchilada](/images/enchilada/enchilada_7.jpg)
 
 Another thing that I love about this dish is the color. Not only does the color make the dish look pretty, but as a dietitian, I often tell patients to "eat the rainbow." No, I'm not talking about Skittles here, I'm talking about the color of the fruits and vegetables that you eat. The color of the food actually represents what vitamins and minerals are inside! So if you eat a lot of one particular type of vegetable, you are limiting yourself to the amount of vitamins and minerals that are in that one food. Whereas if you have a lot of variety and color, you will likely get all of the nutrients you need in a day. Just look at all that color!
 
 {: .center}
-![for the cLove of Garlic - Roasted Vegetable Enchilada](/images/enchilada/enchilada_8.jpg) ![for the cLove of Garlic - Roasted Vegetable Enchilada](/images/enchilada/enchilada_9.jpg)
+![RD Eating - Roasted Vegetable Enchilada](/images/enchilada/enchilada_8.jpg) ![RD Eating - Roasted Vegetable Enchilada](/images/enchilada/enchilada_9.jpg)
 
 <strong>Questions for the week:</strong>
 

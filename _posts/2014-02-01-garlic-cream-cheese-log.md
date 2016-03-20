@@ -24,25 +24,25 @@ Hello Clovies! I am SO SORRY I haven't posted in a while. I'm officially going t
 Now that I'm done making excuses for my bad behavior, I would like to present one of my FAVORITE party recipes: The Garlic Cream Cheese Log. This log pretty much destroys any traditional dip out there. It is scrumptious on crackers, veggies, and pretty much anything you set your mind to.
 
 {: .center}
-![for the cLove of Garlic - Garlic Cream Cheese Log](/images/garlic_cream_cheese/garlic_cream_cheese_2.jpg) ![for the cLove of Garlic - Garlic Cream Cheese Log](/images/garlic_cream_cheese/garlic_cream_cheese_3.jpg)
+![RD Eating - Garlic Cream Cheese Log](/images/garlic_cream_cheese/garlic_cream_cheese_2.jpg) ![RD Eating - Garlic Cream Cheese Log](/images/garlic_cream_cheese/garlic_cream_cheese_3.jpg)
 
 To give credit where credit is due, this recipe is my Mom's. I pretty much force her to make it for all of our family gatherings that require an appetizer. Her trick to the amazing garlic flavor? Letting it sit in the fridge overnight before adding the parsley. You certainly can make this day-of, but try to let the rolled log sit as long as possible. Think of it as a fine red wine...or just <em>drink</em> the wine with the spread...now there's an idea!
 
 {: .center}
-![for the cLove of Garlic - Garlic Cream Cheese Log](/images/garlic_cream_cheese/garlic_cream_cheese_4.jpg) ![for the cLove of Garlic - Garlic Cream Cheese Log](/images/garlic_cream_cheese/garlic_cream_cheese_5.jpg)
+![RD Eating - Garlic Cream Cheese Log](/images/garlic_cream_cheese/garlic_cream_cheese_4.jpg) ![RD Eating - Garlic Cream Cheese Log](/images/garlic_cream_cheese/garlic_cream_cheese_5.jpg)
 
 You will notice that some of the pictures of the finished product are not as high quality. Why? Because amidst all of the stress that has consumed my life as of late, I made this recipe back at New Years, had Dan take all the pictures, only to lose them all when our hard drive completely crashed. We also lost a few other recipes that I was planning on posting, as well as a bunch of pictures from our trip to London. :/ It wasn't a good day. Thankfully, I managed to put a lot of the good ones, particularly from our engagement, up on Facebook, so we didn't lose anything super crushing. It was still a frustrating moment. Long story short, I made a super big batch for New Years and a smaller one this time around for SUPER BOWL SUNDAY.
 
 {: .center}
-![for the cLove of Garlic - Garlic Cream Cheese Log](/images/garlic_cream_cheese/garlic_cream_cheese_6.jpg) ![for the cLove of Garlic - Garlic Cream Cheese Log](/images/garlic_cream_cheese/garlic_cream_cheese_7.jpg)
+![RD Eating - Garlic Cream Cheese Log](/images/garlic_cream_cheese/garlic_cream_cheese_6.jpg) ![RD Eating - Garlic Cream Cheese Log](/images/garlic_cream_cheese/garlic_cream_cheese_7.jpg)
 
 I highly recommend using plastic wrap to create the log shape. Simply plop the cream cheese mixture in the center of the wrap, fold the wrap around the blob and roll into the log shape. When you are ready to add the parsley, unwrap, sprinkle the parsley, and roll the log around while still on the wrap. It will save your hands from a sticky mess!!
 
 {: .center}
-![for the cLove of Garlic - Garlic Cream Cheese Log](/images/garlic_cream_cheese/garlic_cream_cheese_8.jpg) ![for the cLove of Garlic - Garlic Cream Cheese Log](/images/garlic_cream_cheese/garlic_cream_cheese_9.jpg)
+![RD Eating - Garlic Cream Cheese Log](/images/garlic_cream_cheese/garlic_cream_cheese_8.jpg) ![RD Eating - Garlic Cream Cheese Log](/images/garlic_cream_cheese/garlic_cream_cheese_9.jpg)
 
 {: .center}
-![for the cLove of Garlic - Garlic Cream Cheese Log](/images/garlic_cream_cheese/garlic_cream_cheese_10.jpg)
+![RD Eating - Garlic Cream Cheese Log](/images/garlic_cream_cheese/garlic_cream_cheese_10.jpg)
 
 <div class="easyrecipe">
 <div class="item ERName">Garlic Cream Cheese Log</div>
